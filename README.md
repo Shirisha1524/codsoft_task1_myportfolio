@@ -41,3 +41,5 @@ CSS3
 🎯 Purpose
 
 To showcase my skills, education, and projects in a professional portfolio website that can be shared with recruiters, companies, and on LinkedIn.
+
+📬 Contact If you like this project, feel free to ⭐ star the repo! You can connect with me on LinkedIn as well.
